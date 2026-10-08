@@ -1,4 +1,2 @@
 .idea/
 .venv/
-Add-Content .gitignore "`n~$*.docx"
-Add-Content .gitignore "`n*.tmp"
